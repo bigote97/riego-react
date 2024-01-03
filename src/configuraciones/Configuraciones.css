@@ -1,0 +1,65 @@
+.configs-apiKey-card, .configs-addChannel-card {
+    background-color: #fafbff47 !important;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 2px solid gray;
+    border-radius: 20px;
+    background-color: transparent;
+    height: 12vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.configs-apiKey-card-col1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+}
+
+.configs-apiKey-card-col1-title {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5px;
+}
+
+.configs-apiKey-card-col2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.configs-addChannel-card {
+    height: 5vh !important;
+}
+
+.configs-channel-card {
+    background-color: #fafbff47 !important;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 2px solid gray;
+    border-radius: 20px;
+    background-color: transparent;
+    height: 12vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.configs-channel-card-col2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.configs-channel-card-col2-duration {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

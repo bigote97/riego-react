@@ -1,0 +1,39 @@
+.container {
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: white;
+    border-radius: 38px 38px 0 0;
+}
+.section-button {
+    width: 20%;
+    text-align: center;
+}
+
+.section-icons {
+    width: 35px !important;
+    height: 35px !important;
+    margin-top: 5px;
+}
+
+.section-icons-selected {
+    transform: scale(1.6);
+    translate: 0 -13px;
+    color: green !important;
+}
+
+.section-texts {
+    margin: 0;
+}
+
+.section-texts-selected {
+    transform: scale(1.5);
+    translate: 0 -10px;
+    margin-top: 4px;
+    color: green !important;
+}
